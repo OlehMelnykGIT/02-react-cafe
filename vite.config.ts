@@ -10,7 +10,4 @@ export default defineConfig({
       presets: [reactCompilerPreset()],
     }),
   ],
-  build: {
-    sourcemap: true,
-  },
 });
